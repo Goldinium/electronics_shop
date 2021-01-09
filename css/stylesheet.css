@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'gotham_bold';
+    src:  url('fonts/Gotham_Bold.otf') format('otf')
+}
+
+  @font-face {
+    font-family: 'gotham_light';
+    src:  url('fonts/Gotham_Rounded_Light.otf') format('otf');
+}
+
+.class {
+  background-color: #d35266;
+  background-color: #888;
+  background-color: #383838;
+}
